@@ -1,7 +1,7 @@
 # 치안안전도 예측 경진대회
 
 ## 1.사용언어
-    -python, R, jupyter notebook
+    -python(pandas, seaborn, matplotlib, scikit-learn, tensorflow), R, jupyter notebook
 
 
 ## 2. 목적 및 개요
