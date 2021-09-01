@@ -29,7 +29,7 @@
         
     
 ## 4. 세부내용
-     1. 전처리     
+###  전처리     
         (1) 결측치처리  
         -결측치 삭제 및 결측치 범주형 변수처리
     
@@ -45,14 +45,14 @@
     
     
     
-    2. Feature engineering
+###  Feature engineering
         R의 All Subset Regression  
         -가장 설명력이 높은 모델을 선택하는 방법  
         -차원의 저주를 해결, 모델링을 위한 변수선택(feature engineering)  
 <img src="https://user-images.githubusercontent.com/87842980/131622820-4ada316a-53ae-49c8-8345-f02435612c11.png" width="50%">
 
 
-    3. Modeling
+###  Modeling
     
     *Machine learning(regression)
         (1) scaling
