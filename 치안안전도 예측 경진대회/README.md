@@ -21,8 +21,12 @@
       (2) feture engineering
         -R의 All subset regression
     
-      (3) Modeling
-        -Machine learing(regression)
+      (3) Modeling_1
+        -Machine learning(regression)
+        
+      (4) Modeling_2
+        -Deep learning(DNN)
+        
     
 ## 4. 세부내용
      1. 전처리     
@@ -49,6 +53,8 @@
 
 
     3. Modeling
+    
+    *Machine learning(regression)
         (1) scaling
         -non-scaling을 포함한 성능향상을 위해 4가지의 데이터 스케일링 작업
         -standard-scaling
@@ -62,6 +68,18 @@
         (3) 결과해석
         -변수영향도 분석
  <img src="https://user-images.githubusercontent.com/87842980/131624217-7a9fb509-93b1-46c7-b4a1-381ac44de39f.png" width="50%">
+ 
+ 
+    *Deep learning(DNN)
+<img src="https://user-images.githubusercontent.com/87842980/131640067-b6b6e124-c854-48b1-b951-acb781f54c6e.png" width="50%">
+ 
+
+        (1) scaling
+        -robust-scaling 및 standard-scaling
+        
+        (2) 학습횟수에 따른 DNN모델의 MAE점수 변화 그래프
+<img src="https://user-images.githubusercontent.com/87842980/131640071-3b8a6a5f-db7e-44a0-bf41-92a9b6d22a6f.png" width="70%">
+        
 
 
 
