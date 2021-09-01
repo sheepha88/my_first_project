@@ -54,7 +54,7 @@
 
 ###  Modeling
     
-    *Machine learning(regression)
+#### Ⅰ.Machine learning(regression)
         (1) scaling
         -non-scaling을 포함한 성능향상을 위해 4가지의 데이터 스케일링 작업
         -standard-scaling
@@ -70,7 +70,7 @@
  <img src="https://user-images.githubusercontent.com/87842980/131624217-7a9fb509-93b1-46c7-b4a1-381ac44de39f.png" width="50%">
  
  
-    *Deep learning(DNN)
+#### Ⅱ.Deep learning(DNN)
 <img src="https://user-images.githubusercontent.com/87842980/131640067-b6b6e124-c854-48b1-b951-acb781f54c6e.png" width="50%">
  
 
